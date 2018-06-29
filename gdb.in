@@ -1,0 +1,4 @@
+ set history filename gdb.hist
+ set history save on
+ set history size 1000
+ set max-value-size unlimited
